@@ -1,0 +1,3 @@
+#define BLYNK_TEMPLATE_ID "TMPL2KHn5zjqd"
+#define BLYNK_TEMPLATE_NAME "École Intelligente"
+#define BLYNK_AUTH_TOKEN "-w-Vn62b-8q6wxsVDASrI8gaVtKhbE0P"
